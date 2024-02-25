@@ -4,7 +4,7 @@
 
 
 ## Sobre mim
-#### Iniciei minha trajetória na tecnologia no ensino médio com o curso técnico em Redes de Computadores, o que me conduziu à faculdade de Engenharia de Software. Atuo como estagiária QA no projeto USARP da Universidade Federal do Ceará, aprimorando minha compreensão prática. Atualmente, concentro-me na área de dados, explorando análise e engenharia. Sou Integrante do programa Desenvolve 2024 do O Boticário, estou imersa em uma formação intensiva de seis meses na trilha de dados. Ansiosa por desafios e colaborações na área de dados, visando contribuir com soluções estratégicas.
+## Iniciei minha trajetória na tecnologia no ensino médio com o curso técnico em Redes de Computadores, o que me conduziu à faculdade de Engenharia de Software. Atuo como estagiária QA no projeto USARP da Universidade Federal do Ceará, aprimorando minha compreensão prática. Atualmente, concentro-me na área de dados, explorando análise e engenharia. Sou Integrante do programa Desenvolve 2024 do O Boticário, estou imersa em uma formação intensiva de seis meses na trilha de dados. Ansiosa por desafios e colaborações na área de dados, visando contribuir com soluções estratégicas.
 
 <br>
 
