@@ -33,7 +33,7 @@ tomar decisões informadas e contribuir de maneira significativa para solucionar
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=joanaranikelly&show_icons=true&theme=&theme=transparent&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/joanaranikelly/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/joanaranikelly/joanaranikelly/blob/output/github-contribution-grid-snake.svg)
 
 
 ## Contato
