@@ -10,15 +10,30 @@
 
 ## Ferramentas e tecnologias
 ![My Skills](https://skillicons.dev/icons?i=py,r,java,anaconda,postgres,docker,vscode,git&perline=8&theme=light&)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50"/> 
 
-### :notebook: Estou estudando Ciência e Análise de Dados para aprimorar minha capacidade de extrair insights, tomar decisões informadas e contribuir de maneira significativa para solucionar desafios complexos em diversas áreas.
+<div align="left">
+
+<img src = "octocat-1708897197974.png"  width="500" height="500" />
+
+</div>
+
+
+<div>
+:notebook: Estou estudando Ciência e Análise de Dados para aprimorar minha capacidade de extrair insights,
+tomar decisões informadas e contribuir de maneira significativa para solucionar desafios complexos em diversas áreas. 
+</div>
+
+<br>
+
 
 <div>
 <a href="https://github.com/joanaranikelly">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanaranikelly&layout=compact&langs_count=7&&theme=transparent"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=joanaranikelly&show_icons=true&theme=&theme=transparent&include_all_commits=true&count_private=true"/>
 </div>
+
+![Snake animation](https://github.com/seu-usuário-aqui/joanaranikelly/blob/output/github-contribution-grid-snake.svg)
 
 
 ## Contato
