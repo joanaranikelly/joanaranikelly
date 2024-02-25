@@ -32,9 +32,8 @@ tomar decisões informadas e contribuir de maneira significativa para solucionar
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanaranikelly&layout=compact&langs_count=7&&theme=transparent"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=joanaranikelly&show_icons=true&theme=&theme=transparent&include_all_commits=true&count_private=true"/>
 </div>
-
-![Snake animation](https://github.com/joanaranikelly/joanaranikelly/blob/output/github-contribution-grid-snake.svg)
-
+  
+<br>
 
 ## Contato
 <a href="https://www.linkedin.com/in/joanaranikelly2/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
