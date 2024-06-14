@@ -19,10 +19,6 @@ tomar decisões informadas e contribuir de maneira significativa para solucionar
 </div>
 
 <br>
-
-<div>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=joanaranikelly&show_icons=true&theme=&theme=transparent&include_all_commits=true&count_private=true"/>
-</div>
   
 <br>
 
