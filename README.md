@@ -4,12 +4,12 @@
 
 
 ## Sobre mim
-## Iniciei minha trajetória na tecnologia no ensino médio com o curso técnico em Redes de Computadores, o que me conduziu à faculdade de Engenharia de Software. Atuo como estagiária QA no projeto USARP da Universidade Federal do Ceará, aprimorando minha compreensão prática. Atualmente, concentro-me na área de dados, explorando análise e engenharia. Sou Integrante do programa Desenvolve 2024 do O Boticário, estou imersa em uma formação intensiva de seis meses na trilha de dados. Ansiosa por desafios e colaborações na área de dados, visando contribuir com soluções estratégicas.
+### Iniciei minha trajetória na tecnologia no ensino médio com o curso técnico em Redes de Computadores, o que me conduziu à faculdade de Engenharia de Software. Atuo como estagiária QA no projeto USARP da Universidade Federal do Ceará, aprimorando minha compreensão prática. Atualmente, concentro-me na área de dados, explorando análise e engenharia. Sou Integrante do programa Desenvolve 2024 do O Boticário, estou imersa em uma formação intensiva de seis meses na trilha de dados. Ansiosa por desafios e colaborações na área de dados, visando contribuir com soluções estratégicas.
 
 <br>
 
-## Ferramentas e tecnologias
-![My Skills](https://skillicons.dev/icons?i=py,r,java,anaconda,postgres,docker,vscode,git&perline=8&theme=light&)
+## Ferramentas e Tecnologias
+![My Skills](https://skillicons.dev/icons?i=py,java,anaconda,postgres,docker,vscode,git&perline=8&theme=light&)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50"/> 
 
 
