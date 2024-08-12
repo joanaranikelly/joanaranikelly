@@ -9,7 +9,7 @@
 <br>
 
 ## Ferramentas e Tecnologias
-![My Skills](https://skillicons.dev/icons?i=py,java,anaconda,postgres,docker,vscode,git&perline=8&theme=light&)
+![My Skills](https://skillicons.dev/icons?i=p,anaconda,postgres,docker,vscode,git&perline=8&theme=light&)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50"/> 
 
 
